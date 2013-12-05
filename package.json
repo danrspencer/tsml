@@ -1,0 +1,10 @@
+{
+    "name": "tsml",
+    "version": "0.0.2",
+    "description": "",
+    "author": "Dan Spencer <danrspencer@gmail.com>",
+    "dependencies": {
+        "commander": "2.1.0"
+    },
+    "engine": "node 0.4.1"
+}
